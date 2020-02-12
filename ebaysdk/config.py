@@ -36,6 +36,10 @@ class Config(object):
 
         self._populate_yaml_defaults()
 
+        if 'values' in connection_kwargs.keys():
+            for k in connection_kwargs['values']:
+                self.set(k, connection_kwargs['values'][k])
+
     def _populate_yaml_defaults(self):
         "Returns a dictionary of YAML defaults."
 
