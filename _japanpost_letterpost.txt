@@ -1,0 +1,281 @@
+LetterPost Availability
+
+
+South America (Third Zone)
+GY	Guyana.
+SR	Suriname.
+FK	Falkland Islands (Malvinas).
+GF	French Guiana.
+PE	Peru.
+VE	Venezuela.
+BR	Brazil.
+PY	Paraguay.
+CL	Chile.
+CO	Colombia.
+EC	Ecuador.
+UY	Uruguay.
+AR	Argentina.
+
+
+
+Africa (Third Zone)
+AO	Angola.
+ER	Eritrea.
+CV	Cape Verde.
+CM	Cameroon.
+GM	Gambia.
+GN	Guinea.
+GW	Guinea-Bissau.
+KM	Comoros.
+CG	Congo.
+ST	Sao Tome and Principe.
+ZM	Zambia.
+SC	Seychelles.
+GQ	Equatorial Guinea.
+SH	Saint Helena.
+CF	Central African Republic.
+NA	Namibia.
+NE	Niger.
+BF	Burkina Faso.
+BI	Burundi.
+BJ	Benin.
+MW	Malawi.
+ML	Mali.
+MR	Mauritania.
+MZ	Mozambique.
+LY	Libyan Arab Jamahiriya.
+LS	Lesotho.
+RW	Rwanda.
+MA	Morocco.
+MU	Mauritius.
+ZA	South Africa.
+MG	Madagascar.
+BW	Botswana.
+NG	Nigeria.
+TN	Tunisia.
+TG	Togo.
+TZ	Tanzania, United Republic of.
+SN	Senegal.
+SD	Sudan.
+ZW	Zimbabwe.
+DJ	Djibouti.
+CI	Cote d'Ivoire.
+KE	Kenya.
+GA	Gabon.
+GH	Ghana.
+ET	Ethiopia.
+EG	Egypt.
+UG	Uganda.
+DZ	Algeria.
+
+
+Oceania (Second Zone)
+AS	American Samoa.
+NF	Norfolk Island.
+CX	Christmas Island.
+CC	Cocos (Keeling) Islands.
+PF	French Polynesia. Includes Tahiti.
+PN	Pitcairn.
+NR	Nauru.
+TO	Tonga.
+TV	Tuvalu.
+WS	Samoa.
+KI	Kiribati.
+VU	Vanuatu.
+FJ	Fiji.
+PG	Papua New Guinea.
+NZ	New Zealand.
+NC	New Caledonia.
+AU	Australia.
+SB	Solomon Islands.
+
+
+North America/Central America (Second Zone)
+MP	Northern Mariana Islands.
+AN	Netherlands Antilles.
+PR	Puerto Rico.
+VI	Virgin Islands, U.S.
+AW	Aruba.
+AI	Anguilla.
+AG	Antigua and Barbuda.
+VG	Virgin Islands, British.
+GP	Guadeloupe.
+GD	Grenada.
+KY	Cayman Islands.
+PM	Saint Pierre and Miquelon.
+KN	Saint Kitts and Nevis.
+VC	Saint Vincent and the Grenadines.
+LC	Saint Lucia.
+TC	Turks and Caicos Islands.
+DM	Dominica.
+DO	Dominican Republic.
+NI	Nicaragua.
+HT	Haiti.
+BM	Bermuda.
+BZ	Belize.
+MQ	Martinique.
+MS	Montserrat.
+BS	Bahamas.
+MX	Mexico.
+HN	Honduras.
+TT	Trinidad and Tobago.
+BB	Barbados.
+PA	Panama.
+CR	Costa Rica.
+JM	Jamaica.
+CU	Cuba.
+US	United States.
+SV	El Salvador.
+CA	Canada.
+
+
+
+
+
+
+
+Europe (Second Zone)
+GG	Guernsey
+JE	Jersey
+RU	Russian Federation.
+RO	Romania.
+LU	Luxembourg.
+LI	Liechtenstein.
+LT	Lithuania.
+LV	Latvia.
+MC	Monaco.
+MT	Malta.
+PT	Portugal.
+PL	Poland.
+BE	Belgium.
+BY	Belarus.
+BG	Bulgaria.
+FR	France.
+FI	Finland.
+HU	Hungary.
+NO	Norway.
+DE	Germany.
+DK	Denmark.
+CZ	Czech Republic.
+SI	Slovenia.
+SK	Slovakia.
+ES	Spain.
+SE	Sweden.
+CH	Switzerland.
+SM	San Marino.
+HR	Croatia.
+GR	Greece.
+MK	The Former Yugoslav Republic of Macedonia.
+NL	Netherlands.
+AT	Austria.
+EE	Estonia.
+GB	United Kingdom.
+IT	Italy.
+AZ	Azerbaijan.
+IE	Ireland.
+IS	Iceland.
+
+
+
+Middle East (Second Zone)
+LB	Lebanon.
+JO	Jordan.
+BH	Bahrain.
+TR	Turkey.
+SY	Syrian Arab Republic.
+SA	Saudi Arabia.
+KW	Kuwait.
+CY	Cyprus.
+QA	Qatar.
+OM	Oman.
+IR	Islamic Republic of Iran.
+IQ	Iraq.
+IL	Israel.
+AE	United Arab Emirates.
+
+
+
+First zone
+LA	Lao People's Democratic Republic.
+MN	Mongolia.
+MV	Maldives.
+MM	Myanmar.
+MY	Malaysia.
+MO	Macao.
+HK	Hong Kong.
+VN	Vietnam.
+BN	Brunei Darussalam.
+BT	Bhutan.
+PH	Philippines.
+BD	Bangladesh.
+PK	Pakistan.
+NP	Nepal.
+CN	China.
+TW	Taiwan, Province of China.
+TH	Thailand.
+GU	Guam.
+LK	Sri Lanka.
+SG	Singapore.
+KH	Cambodia.
+KP	Democratic People's Republic of Korea.
+KR	Republic of Korea.
+IN	India.
+ID	Indonesia.
+
+
+Japan
+JP	Japan.
+
+
+
+
+
+
+
+
+
+AD
+AF	Afghanistan.
+AL	Albania.
+AM	Armenia.
+AQ	Antarctica.
+BA	Bosnia and Herzegovina.
+BV	Bouvet Island.
+CD	Congo, The Democratic Republic of the.
+CK	Cook Islands.
+EH	Western Sahara.
+FM	Federated States of Micronesia.
+FO	Faroe Islands.
+GE	Georgia.
+GI	Gibraltar.
+GL	Greenland.
+GS	South Georgia and the South Sandwich Islands.
+HM	Heard Island and McDonald Islands.
+IO	British Indian Ocean Territory.
+KG	Kyrgyzstan.
+KZ	Kazakhstan.
+MD	Republic of Moldova.
+ME	Montenegro.
+MH	Marshall Islands.
+NU	Niue.
+PS	Palestinian territory, Occupied.
+PW	Palau.
+RS	Serbia
+SJ	Svalbard and Jan Mayen.
+SZ	Swaziland.
+TF	French Southern Territories.
+TJ	Tajikistan.
+TK	Tokelau.
+TM	Turkmenistan.
+UZ	Uzbekistan.
+VA	Holy See (Vatican City state).
+WF	Wallis and Futuna.
+YE	Yemen.
+YT	Mayotte.
+LR	Liberia.
+BO	Bolivia.
+TD	Chad.
+SO	Somalia.
+SL	Sierra Leone.
+GT	Guatemala.
+UA	Ukraine.

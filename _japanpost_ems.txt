@@ -1,0 +1,160 @@
+EMS Availability
+
+
+South America (Third Zone)
+PE	Peru.
+VE	Venezuela.
+BR	Brazil.
+PY	Paraguay.
+CL	Chile.
+CO	Colombia.
+EC	Ecuador.
+UY	Uruguay.
+AR	Argentina.
+
+
+
+Africa (Third Zone)
+RW	Rwanda.
+MA	Morocco.
+MU	Mauritius.
+ZA	South Africa.
+MG	Madagascar.
+BW	Botswana.
+NG	Nigeria.
+TN	Tunisia.
+TG	Togo.
+TZ	Tanzania, United Republic of.
+SN	Senegal.
+SD	Sudan.
+ZW	Zimbabwe.
+DJ	Djibouti.
+CI	Cote d'Ivoire.
+KE	Kenya.
+GA	Gabon.
+GH	Ghana.
+ET	Ethiopia.
+EG	Egypt.
+UG	Uganda.
+DZ	Algeria.
+
+
+Oceania (Second Zone)
+FJ	Fiji.
+PG	Papua New Guinea.
+NZ	New Zealand.
+NC	New Caledonia.
+AU	Australia.
+SB	Solomon Islands.
+
+
+North America/Central America (Second Zone)
+MX	Mexico.
+HN	Honduras.
+TT	Trinidad and Tobago.
+BB	Barbados.
+PA	Panama.
+CR	Costa Rica.
+JM	Jamaica.
+CU	Cuba.
+US	United States.
+SV	El Salvador.
+CA	Canada.
+
+
+
+
+
+
+
+Europe (Second Zone)
+GG	Guernsey
+JE	Jersey
+RU	Russian Federation.
+RO	Romania.
+LU	Luxembourg.
+LI	Liechtenstein.
+LT	Lithuania.
+LV	Latvia.
+MC	Monaco.
+MT	Malta.
+PT	Portugal.
+PL	Poland.
+BE	Belgium.
+BY	Belarus.
+BG	Bulgaria.
+FR	France.
+FI	Finland.
+HU	Hungary.
+NO	Norway.
+DE	Germany.
+DK	Denmark.
+CZ	Czech Republic.
+SI	Slovenia.
+SK	Slovakia.
+ES	Spain.
+SE	Sweden.
+CH	Switzerland.
+SM	San Marino.
+HR	Croatia.
+GR	Greece.
+MK	The Former Yugoslav Republic of Macedonia.
+NL	Netherlands.
+AT	Austria.
+EE	Estonia.
+GB	United Kingdom.
+IT	Italy.
+AZ	Azerbaijan.
+IE	Ireland.
+IS	Iceland.
+
+
+
+Middle East (Second Zone)
+LB	Lebanon.
+JO	Jordan.
+BH	Bahrain.
+TR	Turkey.
+SY	Syrian Arab Republic.
+SA	Saudi Arabia.
+KW	Kuwait.
+CY	Cyprus.
+QA	Qatar.
+OM	Oman.
+IR	Islamic Republic of Iran.
+IQ	Iraq.
+IL	Israel.
+AE	United Arab Emirates.
+
+
+
+First zone
+LA	Lao People's Democratic Republic.
+MN	Mongolia.
+MV	Maldives.
+MM	Myanmar.
+MY	Malaysia.
+MO	Macao.
+HK	Hong Kong.
+VN	Vietnam.
+BN	Brunei Darussalam.
+BT	Bhutan.
+PH	Philippines.
+BD	Bangladesh.
+PK	Pakistan.
+NP	Nepal.
+CN	China.
+TW	Taiwan, Province of China.
+TH	Thailand.
+GU	Guam.
+LK	Sri Lanka.
+SG	Singapore.
+KH	Cambodia.
+KP	Democratic People's Republic of Korea.
+KR	Republic of Korea.
+IN	India.
+ID	Indonesia.
+
+
+Japan
+JP	Japan.

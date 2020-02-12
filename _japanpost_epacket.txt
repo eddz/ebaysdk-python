@@ -1,0 +1,69 @@
+ePacket Light Countries
+
+
+
+South America (Third Zone)
+BR	Brazil.
+
+
+
+Oceania (Second Zone)
+AS	American Samoa.
+NZ	New Zealand.
+AU	Australia.
+
+
+North America/Central America (Second Zone)
+PR	Puerto Rico.
+VI	Virgin Islands, U.S.
+MX	Mexico.
+US	United States.
+CA	Canada.
+
+
+
+Europe (Second Zone)
+AT	Austria.
+BE	Belgium.
+DK	Denmark.
+FR	France.
+DE	Germany.
+FI	Finland.
+GG	Guernsey
+JE	Jersey
+GB	United Kingdom.
+GR	Greece.
+HU	Hungary.
+IE	Ireland.
+IT	Italy.
+RU	Russian Federation.
+PL	Poland.
+NO	Norway.
+NL	Netherlands.
+ES	Spain.
+SE	Sweden.
+CH	Switzerland.
+
+
+
+Middle East (Second Zone)
+TR	Turkey.
+IL	Israel.
+
+
+
+First zone
+BT	Bhutan.
+KH	Cambodia.
+CN	China.
+HK	Hong Kong.
+IN	India.
+SG	Singapore.
+PH	Philippines.
+ID	Indonesia.
+MY	Malaysia.
+KR	Republic of Korea.
+TH	Thailand.
+MO	Macao.
+VN	Vietnam.
+GU	Guam.
